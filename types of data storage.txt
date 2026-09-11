@@ -1,0 +1,24 @@
+types of data storage
+
+1.temporary
+
+2.permanent
+  1 local :- shared preference , local storage, 
+SQLite , give, moore, get storage
+  2 remote :- firebase(firestore),API,rest,soup,
+
+structure query 
+
+5 E
+2 R
+
+student details
+==================
+student_id
+
+stateful 
+inherited
+provider
+getx
+riverpod
+bloc
